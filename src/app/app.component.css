@@ -1,0 +1,11 @@
+.main-container{
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    align-items: center;
+    
+}
+.main-container div{
+    margin-bottom: 10px;
+}
